@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/biewers2/Documents/programming/cpp/Homework/Homework.cpp
+utility
+-
+Homework.h
+/home/biewers2/Documents/programming/cpp/Homework/Homework.h
+
+/home/biewers2/Documents/programming/cpp/Homework/Homework.h
+string
+-
+
